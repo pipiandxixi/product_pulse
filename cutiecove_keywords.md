@@ -1,0 +1,22 @@
+# Cutie Cove 类别与关键词映射表 (Category-to-Keyword Mapping)
+
+| 类别 (Category) | 代表产品 (Representative Product) | 核心关键词 (Eye-Catching Keywords) |
+| :--- | :--- | :--- |
+| **手机壳 (Phone Cases)** | 苏格拉底恶搞手机壳 (Socrates Parody) | #哲学恶搞, #讽刺美学, #名画/古典梗, #暗黑学院风 |
+| | 2D 简笔线描手机壳 (2D Line Art) | #极简主义, #手绘感, #摩登简约, #素描艺术 |
+| | 3D 视觉向日葵手机壳 (3D Sunflower) | #多巴胺色系, #立体感, #田园风, #高饱和度 |
+| | 复古卡带造型手机壳 (Retro Cassette) | #怀旧风, #80s/90s, #模拟时代, #潮流极客 |
+| | 抽象大理石纹手机壳 (Abstract Pastel) | #治愈系, #液体美学, #莫兰迪色, #柔和质感 |
+| **斜挎包 (Crossbody Bags)** | 薯片包装袋造型斜挎包 (Chip Bag Novelty) | #零食主义, #高保真写实, #波普艺术, #猎奇时尚 |
+| | 迷你冬靴斜挎包 (Cozy Boot Mini) | #萌系搞怪, #冬日氛围, #触感蓬松, #微缩穿搭 |
+| | 吐司煎蛋斜挎包 (Toast & Egg) | #可爱万岁, #搞怪食玩, #日系Kawaii, #穿搭亮点 |
+| | 英伦复古剑桥斜挎包 (British Vintage) | #学院风, #经典怀旧, #皮质质感, #中性设计 |
+| | 暗黑哥特十字手机包 (Dark Gothic Cross) | #亚文化, #哥特风, #朋克元素, #酷飒配饰 |
+| **钥匙扣 (Keychains)** | 可活动自行车钥匙扣 (Movable Bicycle) | #动态微缩, #机械解压, #工业硬核, #触感交互 |
+| | 迷你集装箱钥匙扣 (Mini Container) | #工业美学, #硬核微缩, #Maersk/ONE联名感, #金属感 |
+| | 钓鱼俱乐部铁盒钥匙扣 (Fishing Club Tin) | #复古怀旧, #户外风, #美式工装, #功能性挂件 |
+| | 迷你毛毡收纳钥匙扣 (Felt Storage Pouch) | #手作感, #极简温润, #治愈色系, #功能挂饰 |
+| | 折叠饮料提篮钥匙扣 (Folding Drink Caddy) | #趣味功能, #日常缩影, #多巴胺亮色, #便携玩趣 |
+
+---
+*注：这些关键词基于 Cutie Cove 的“多巴胺家装”与“趣味美学”风格提炼，旨在精准吸引追求个性与独特表达的年轻受众。*
